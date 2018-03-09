@@ -73,12 +73,6 @@
 /processorParam:TextureFormat=Color
 /build:Textures/StarBurst.jpg
 
-#begin Shaders/File.fx
-/importer:EffectImporter
-/processor:EffectProcessor
-/processorParam:DebugMode=Auto
-/build:Shaders/File.fx
-
 #begin Shaders/MouseForce.fx
 /importer:EffectImporter
 /processor:EffectProcessor
